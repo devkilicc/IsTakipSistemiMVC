@@ -13,10 +13,10 @@ namespace IsTakipSistemiMVC.Models
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class IsTakipDBEntities1 : DbContext
+    public partial class IsTakipDBEntities : DbContext
     {
-        public IsTakipDBEntities1()
-            : base("name=IsTakipDBEntities1")
+        public IsTakipDBEntities()
+            : base("name=IsTakipDBEntities")
         {
         }
     
