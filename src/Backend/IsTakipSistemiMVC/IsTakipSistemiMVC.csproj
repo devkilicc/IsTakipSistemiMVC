@@ -112,6 +112,7 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\bootstrap.rtl.css" />
     <Content Include="Content\bootstrap.rtl.min.css" />
+    <Content Include="Content\sign-in.css" />
     <Content Include="Global.asax" />
     <Content Include="Models\IsTakipModel.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
