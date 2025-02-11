@@ -3,6 +3,7 @@
     Layout = null;
 }
 
+
 <!DOCTYPE html>
 
 <html>
@@ -16,26 +17,26 @@
 <body>
     <nav class="navbar navbar-expand-md navbar-dark bg-dark">
         <div class="container">
-        <a class="navbar-brand" href="#">İş Takip Yönetici</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
+            <a class="navbar-brand" href="#">İş Takip Yönetici</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
 
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mr-auto">
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
 
-                <li class="nav-item">
-                    @Html.ActionLink("Anasayfa", "Index", "Yonetici", new { }, new { @class = "nav-link" })
-                </li>
-                <li class="nav-item">
-                    @Html.ActionLink("İş Ata", "Ata", "Yonetici", new { }, new { @class = "nav-link" })
-                </li>
-                <li class="nav-item">
-                    @Html.ActionLink("İş Takip", "Takip", "Yonetici", new { }, new { @class = "nav-link" })
-                </li>
-            </ul>
+                    <li class="nav-item">
+                        @Html.ActionLink("Anasayfa", "Index", "Yonetici", new { }, new { @class = "nav-link" })
+                    </li>
+                    <li class="nav-item">
+                        @Html.ActionLink("İş Ata", "Ata", "Yonetici", new { }, new { @class = "nav-link" })
+                    </li>
+                    <li class="nav-item">
+                        @Html.ActionLink("İş Takip", "Takip", "Yonetici", new { }, new { @class = "nav-link" })
+                    </li>
+                </ul>
 
-        </div>
+            </div>
         </div>
     </nav>
     <main role="main" class="container">
