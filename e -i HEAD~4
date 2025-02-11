@@ -1,0 +1,29 @@
+[33mcommit affbc123d39a77fb07ec30291081f0f826f9e6a2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Muhammed KILIC <devkilicc@gmail.com>
+Date:   Sat Jan 11 00:14:18 2025 +0300
+
+    Giriş sayfası düzenlendi ve LoginController.cs dosyası düzenlendi. Giriş için gerekli EntityFramework sorgusu eklendi.
+
+[33mcommit e1fb8f4320ae330317f455d5a61994b41ec39489[m
+Author: Muhammed KILIC <devkilicc@gmail.com>
+Date:   Sat Jan 11 00:08:27 2025 +0300
+
+    Giriş sayfası düzenlendi ve LoginController.cs dosyası düzenlendi. Giriş için gerekli EntityFramwork sorgusu eklendi.
+
+[33mcommit de31c216ed64de530a0e983a0e801233489aa794[m
+Author: Muhammed KILIC <devkilicc@gmail.com>
+Date:   Fri Jan 10 00:12:56 2025 +0300
+
+    LoginController added
+
+[33mcommit 924a1dfbd60bc5e11936d6354e98f2276141fbe9[m
+Author: Muhammed KILIC <devkilicc@gmail.com>
+Date:   Thu Jan 9 23:53:21 2025 +0300
+
+    Add project files.
+
+[33mcommit add90a842e64e497dc27a6b59dee1813b79024c8[m
+Author: Muhammed KILIC <devkilicc@gmail.com>
+Date:   Thu Jan 9 23:53:19 2025 +0300
+
+    Add .gitattributes, .gitignore, and README.md.

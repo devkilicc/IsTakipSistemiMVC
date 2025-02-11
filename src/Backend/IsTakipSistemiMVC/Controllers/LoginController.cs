@@ -36,7 +36,7 @@ namespace IsTakipSistemiMVC.Controllers
             }
             else
             {
-                ViewBag.mesaj = "Kullanıcı adı ya da parola yanlışaaa";
+                ViewBag.mesaj = "Kullanıcı adı ya da parola yanlış";
                 return View();
             }
 
